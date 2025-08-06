@@ -1,1 +1,1 @@
-# Analog-Electronic-Circuit-Design-PBL
+# Hardware implementation of the McCulloch-Pitts Neuron model
