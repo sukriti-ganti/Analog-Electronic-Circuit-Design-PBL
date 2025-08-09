@@ -66,3 +66,9 @@ This models the basic “fire if input sum ≥ threshold” behavior of neurons.
 * Extend to multi-layer threshold logic circuits to simulate neural networks.
 * Use microcontrollers (e.g., Arduino) to dynamically change weights via digital potentiometers.
 * Explore learning mechanisms (e.g., resistor switching, memristors) for analog adaptation.
+
+* ## References
+* McCulloch, W. S., & Pitts, W. (1943). *A Logical Calculus of the Ideas Immanent in Nervous Activity.*
+* LM324 Op-Amp Datasheet
+* NPTEL Analog Electronic Circuits Design Lectures
+* Additional IEEE papers on analog threshold logic and neuromorphic circuits
