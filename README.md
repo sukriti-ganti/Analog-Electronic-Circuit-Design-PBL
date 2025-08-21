@@ -41,7 +41,7 @@ Biological neurons make binary decisions by firing when their inputs cross a thr
 * PCB Design: KiCAD
 
 ## Working Principle
-The circuit mimics a McCulloch-Pitts neuron by:
+ The circuit mimics a McCulloch-Pitts neuron by:
 * Adding input voltages using a summing amplifier
 * Comparing the summed result to a reference using a comparator
 * Lighting the LED only when the threshold is crossed
@@ -68,7 +68,7 @@ This models the basic “fire if input sum ≥ threshold” behavior of neurons.
 * Explore learning mechanisms (e.g., resistor switching, memristors) for analog adaptation.
 
 * ## References
-* McCulloch, W. S., & Pitts, W. (1943). *A Logical Calculus of the Ideas Immanent in Nervous Activity.*
+* McCulloch,  W. S., & Pitts, W. (1943). *A Logical Calculus of the Ideas Immanent in Nervous Activity.*
 * LM324 Op-Amp Datasheet
 * NPTEL Analog Electronic Circuits Design Lectures
 * Additional IEEE papers on analog threshold logic and neuromorphic circuits
